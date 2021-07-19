@@ -1,0 +1,18 @@
+.marker {
+    min-width:  400px;
+    z-index: 99;
+}
+
+.pin {
+    width: 17px;
+    height: 30px;
+}
+
+.label {
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.map {
+    overflow-x: hidden;
+}

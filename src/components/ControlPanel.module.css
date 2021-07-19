@@ -1,0 +1,15 @@
+.container {
+    padding-top: 10px;
+    margin-bottom: 15px;
+}
+
+.select {
+    height: 40px;
+    font-size: 16px;
+    border-radius: 8px;
+    min-width: 100px;
+}
+
+.label {
+    margin-right: 30px;
+}
